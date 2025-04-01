@@ -35,4 +35,24 @@ h. lang
 8. Run the Application: uvicorn main:app --reload.
 9. Access the API: The API will be running on http://localhost:8000. Access the interactive API documentation at http://localhost:8000/docs.
 
+## Snap Shots:
+### API Documentation:
+![image](https://github.com/user-attachments/assets/4bb8db12-33f2-416c-9a15-a6af44c8855e)
+
+### Fetch Jokes:
+![image](https://github.com/user-attachments/assets/650be4a8-1e5b-467d-8f9b-eb76ba8cb79c)
+
+### Get Jokes:
+![image](https://github.com/user-attachments/assets/fd2c3593-ecc4-404b-bddd-98636527992e)
+
+### Database:
+![image](https://github.com/user-attachments/assets/33386ebd-4a4c-4749-8a6a-8e39091e02bb)
+
+
+
+
+
+
+
+
 
